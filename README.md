@@ -21,7 +21,7 @@ Below are the steps.
 12.  Below can be a demo chat
  <p align="left">hi</p>
  <p align="right">This is Riya. Can you let me know your name please?</p>
- <p align="left">I want account balance</p>
+ <p align="left">I want account balance </p>
  <p align="right">This is Riya. Can you let me know your name please?</p>
  <p align="left">My name is Ranjanlal</p>
 <p align="right">Thank you Ranjanlal How can I help you?</p>
