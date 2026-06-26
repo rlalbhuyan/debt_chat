@@ -20,10 +20,10 @@ Below are the steps.
 11.  Click the link for Web Demo
 12.  Below can be a demo chat
  <p align="left">hi</p>
- <p align="left">This is Riya. Can you let me know your name please?</p>
-I want account balance
-This is Riya. Can you let me know your name please?
-My name is Ranjanlal
+ <p align="right">This is Riya. Can you let me know your name please?</p>
+ <p align="left">I want account balance</p>
+ <p align="right">This is Riya. Can you let me know your name please?</p>
+ <p align="left">My name is Ranjanlal</p>
 Thank you Ranjanlal How can I help you?
 I want account balance
 I need account details to verify. I need one of these attributes(account number/client_account_number/orginal_account_number, date of birth of the primary consumer, and last four digits Of SSN?
