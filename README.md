@@ -20,38 +20,38 @@ Below are the steps.
 11.  Click the link for Web Demo
 12.  Below can be a demo chat
  <p align="left">hi</p>
- <p align="right">This is Riya. Can you let me know your name please?</p>
+ <p align="right" bgcolor="yellow">This is Riya. Can you let me know your name please?</p>
  <p align="left">I want account balance </p>
- <p align="right">This is Riya. Can you let me know your name please?</p>
+ <p align="right" bgcolor="yellow">This is Riya. Can you let me know your name please?</p>
  <p align="left">My name is Ranjanlal</p>
-<p align="right">Thank you Ranjanlal How can I help you?</p>
+<p align="right" bgcolor="yellow">Thank you Ranjanlal How can I help you?</p>
  <p align="left">I want account balance</p>
-<p align="right">I need account details to verify. I need one of these attributes(account number/client_account_number/orginal_account_number, date of birth of the primary consumer, and last four digits Of SSN?</p>
+<p align="right" bgcolor="yellow">I need account details to verify. I need one of these attributes(account number/client_account_number/orginal_account_number, date of birth of the primary consumer, and last four digits Of SSN?</p>
  <p align="left">I want to see the payment history</p>
-<p align="right">Dear Ranjanlal, Account has not been identified. I need account details to verify. I need one of these attributes(account number/client_account_number/orginal_account_number, date of birth of the primary consumer, and last four digits Of SSN?. Please make sure the account has been validated before executing any goal</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Account has not been identified. I need account details to verify. I need one of these attributes(account number/client_account_number/orginal_account_number, date of birth of the primary consumer, and last four digits Of SSN?. Please make sure the account has been validated before executing any goal</p>
  <p align="left">my account id is 5</p>
-<p align="right">Additional details required. please provide dob and last four digits of ssn</p>
+<p align="right" bgcolor="yellow">Additional details required. please provide dob and last four digits of ssn</p>
  <p align="left">last four digits of ssn is 6789</p>
-<p align="right">Additional details required. please provide dob</p>
+<p align="right" bgcolor="yellow">Additional details required. please provide dob</p>
  <p align="left">date of birth is 10/10/2000</p>
-<p align="right">Account identified.. What action you want to take now?. Below are the list of actions:. View payment history. View payment plan. Check various payment plan offer. Check consumer score. Creation of payment plan. Void payment plan</p>
+<p align="right" bgcolor="yellow">Account identified.. What action you want to take now?. Below are the list of actions:. View payment history. View payment plan. Check various payment plan offer. Check consumer score. Creation of payment plan. Void payment plan</p>
  <p align="left">paymen tplan detail</p>
-<p align="right">Dear Ranjanlal, Here are the payment plan details for your account: - Payment Plan ID: 24 - Account ID: 5 - Discount Offer: 30.00% - Current Balance: $3738.70 - Plan End Date: June 25, 2026</p>
- <p align="left">payment history</p>
-<p align="right">Dear Ranjanlal, Here is the payment history for account ID 5: 1. Date: 2025-01-01, Amount: $250.00, Status: Settled, Balance after payment: $9750.00 2. Date: 2025-02-01, Amount: $250.00, Status: Settled, Balance after payment: $9500.00 3. Date: 2025-03-01, Amount: $250.00, Status: Settled, Balance after payment: $9250.00 4. Date: 2025-04-01, Amount: $250.00, Status: Settled, Balance after payment: $9000.00 5. Date: 2025-05-01, Amount: $250.00, Status: Settled, Balance after payment: $8750.00 6. Date: 2025-06-01, Amount: $250.00, Status: Settled, Balance after payment: $8500.00</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Here are the payment plan details for your account: - Payment Plan ID: 24 - Account ID: 5 - Discount Offer: 30.00% - Current Balance: $3738.70 - Plan End Date: June 25, 2026</p>
+ <p align="left" bgcolor="yellow">payment history</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Here is the payment history for account ID 5: 1. Date: 2025-01-01, Amount: $250.00, Status: Settled, Balance after payment: $9750.00 2. Date: 2025-02-01, Amount: $250.00, Status: Settled, Balance after payment: $9500.00 3. Date: 2025-03-01, Amount: $250.00, Status: Settled, Balance after payment: $9250.00 4. Date: 2025-04-01, Amount: $250.00, Status: Settled, Balance after payment: $9000.00 5. Date: 2025-05-01, Amount: $250.00, Status: Settled, Balance after payment: $8750.00 6. Date: 2025-06-01, Amount: $250.00, Status: Settled, Balance after payment: $8500.00</p>
  <p align="left">my account score please</p>
-<p align="right">Dear Ranjanlal, Your account score is 755.</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Your account score is 755.</p>
  <p align="left">discount offer for my account</p>
-<p align="right">Dear Ranjanlal, Here is the discount offer available for your account: 1. Offer (ID:5) — 30% discount for a duration of 6 months.</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Here is the discount offer available for your account: 1. Offer (ID:5) — 30% discount for a duration of 6 months.</p>
  <p align="left">please void the existing payment plan</p>
-<p align="right">Dear Ranjanlal, Your payment plan has been successfully voided. If you need any further assistance, feel free to ask!</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Your payment plan has been successfully voided. If you need any further assistance, feel free to ask!</p>
  <p align="left">payment plan detail</p>
-<p align="right">Dear Ranjanlal, Payment plan does not exist for account ID 5.</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Payment plan does not exist for account ID 5.</p>
  <p align="left">please create a payment plan with best discount offer</p>
-<p align="right">Your payment plan has been created successfully with the best discount offer of 30% for a duration of 6 months</p>
+<p align="right" bgcolor="yellow">Your payment plan has been created successfully with the best discount offer of 30% for a duration of 6 months</p>
  <p align="left">who is president of india</p>
-<p align="right">I didn't get that. Can you repeat?</p>
+<p align="right" bgcolor="yellow">I didn't get that. Can you repeat?</p>
  <p align="left">what is my original account number?</p>
-<p align="right">Dear Ranjanlal, Your original account number is 5682.</p>
+<p align="right" bgcolor="yellow">Dear Ranjanlal, Your original account number is 5682.</p>
  <p align="left">my consumer detail please</p>
 <p align="right">Dear Ranjanlal, Here are the details for your account with ID 5: - **Original Account Number:** 5682 - **Client Account Number:** 1238 - **Original Account Balance:** $5341.00 - **Current Account Balance:** $5341.00 - **Last Payment Date:** 2025-06-01 Your consumer score is **755.00**. If you need any further assistance, feel free to ask!</p>
