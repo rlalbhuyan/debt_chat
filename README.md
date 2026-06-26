@@ -19,8 +19,8 @@ Below are the steps.
 10.  Click Web Flow
 11.  Click the link for Web Demo
 12.  Below can be a demo chat
-hi
-This is Riya. Can you let me know your name please?
+<l>hi</l
+<R>This is Riya. Can you let me know your name please?</R>
 I want account balance
 This is Riya. Can you let me know your name please?
 My name is Ranjanlal
